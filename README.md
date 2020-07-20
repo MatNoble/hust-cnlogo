@@ -8,6 +8,8 @@
 
 由于本子项目仍需完善，所以暂时没有 PR 到向老师的 GitHub 仓库。希望看到本项目的 Huster 们可以提出[宝贵建议](https://github.com/MatNoble/hust-cnlogo/issues)。
 
+你还没有使用 LaTeX ? 那也没关系，本仓库还提供了[高清的 PNG 格式徽标](https://github.com/MatNoble/hust-cnlogo/tree/master/images/png)
+
 ### TODO
 
 - [ ] 增加 Beamer 展示
