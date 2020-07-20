@@ -10,6 +10,6 @@
 
 ### TODO
 
--[] 增加 Beamer 展示
+- [ ] 增加 Beamer 展示
 
 联系我[hustmatnoble@gmail.com](mailto:hustmatnoble@gmail.com)
