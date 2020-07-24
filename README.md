@@ -14,6 +14,7 @@
 
 ### TODO
 
-- [ ] 增加 Beamer 展示
+- [x] 增加 Beamer 展示
+[华中科技大学 beamer 模板](https://github.com/MatNoble/HUSTMatNobleBeamer)
 
 联系我[hustmatnoble@gmail.com](mailto:hustmatnoble@gmail.com)
