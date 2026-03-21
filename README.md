@@ -1,6 +1,6 @@
 ## 华中科技大学 LaTeX 版徽标分享
 
-<img src="https://raw.githack.com/MatNoble/hust-cnlogo/master/images/svg/hustcwhole.svg" title="华中科技大学校徽" alt="华中科技大学校徽" width="500">
+<img src="https://raw.githubusercontent.com/MatNoble/hust-cnlogo/refs/heads/master/images/svg/hustcwhole.svg" title="华中科技大学校徽" alt="华中科技大学校徽" width="500">
 
 [cnlogo 宏包](https://github.com/yuxtech/cnlog)是由[向禹老师](https://yuxtech.github.io/)开发制作，旨在：利用 tikz 绘制国内高校的校徽。并配有[使用文档](https://github.com/yuxtech/cnlogo/blob/master/ceshi.pdf)
 
